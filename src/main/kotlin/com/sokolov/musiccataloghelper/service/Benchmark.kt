@@ -1,4 +1,4 @@
-package com.sokolov.cataloger.service
+package com.sokolov.musiccataloghelper.service
 
 import java.time.Duration
 import java.time.Instant

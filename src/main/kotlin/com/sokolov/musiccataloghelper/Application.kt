@@ -1,9 +1,9 @@
-package com.sokolov.cataloger
+package com.sokolov.musiccataloghelper
 
-import com.sokolov.cataloger.model.Song
-import com.sokolov.cataloger.service.Benchmark
-import com.sokolov.cataloger.service.DefaultHTMLRenderer
-import com.sokolov.cataloger.service.DefaultMP3Parser
+import com.sokolov.musiccataloghelper.model.Song
+import com.sokolov.musiccataloghelper.service.Benchmark
+import com.sokolov.musiccataloghelper.service.DefaultHTMLRenderer
+import com.sokolov.musiccataloghelper.service.DefaultMP3Parser
 import java.io.File
 
 fun main() {

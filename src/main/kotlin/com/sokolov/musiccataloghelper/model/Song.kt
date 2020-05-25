@@ -1,4 +1,4 @@
-package com.sokolov.cataloger.model
+package com.sokolov.musiccataloghelper.model
 
 data class Song(
     val title: String? = UNKNOWN,

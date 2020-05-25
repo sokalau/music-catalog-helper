@@ -1,6 +1,6 @@
-package com.sokolov.cataloger.service
+package com.sokolov.musiccataloghelper.service
 
-import com.sokolov.cataloger.model.Song
+import com.sokolov.musiccataloghelper.model.Song
 
 class DefaultHTMLRenderer : HTMLRenderer {
     companion object {
